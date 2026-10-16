@@ -50,3 +50,6 @@ backups/
 .terraform/
 terraform.tfvars
 terraform.tfvars.json
+
+# Local-only development files
+.local/
